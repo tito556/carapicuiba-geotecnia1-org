@@ -1,0 +1,48 @@
+# Geotecnia1 — Carapicuíba
+
+> Geotechnical engineering services in Carapicuíba, Brasil.
+
+## Services
+- [Ancoragens](https://carapicuiba.geotecnia1.org/ancoragens/)
+- [Cbr Viario](https://carapicuiba.geotecnia1.org/cbr-viario/)
+- [Colunas Brita](https://carapicuiba.geotecnia1.org/colunas-brita/)
+- [Densidade Cone Areia](https://carapicuiba.geotecnia1.org/densidade-cone-areia/)
+- [Ensaio Cpt](https://carapicuiba.geotecnia1.org/ensaio-cpt/)
+- [Ensaio Placa Carga](https://carapicuiba.geotecnia1.org/ensaio-placa-carga/)
+- [Escavacoes](https://carapicuiba.geotecnia1.org/escavacoes/)
+- [Escavacoes Profundas](https://carapicuiba.geotecnia1.org/escavacoes-profundas/)
+- [Estabilidade Taludes](https://carapicuiba.geotecnia1.org/estabilidade-taludes/)
+- [Fundacoes](https://carapicuiba.geotecnia1.org/fundacoes/)
+- [Geofisica](https://carapicuiba.geotecnia1.org/geofisica/)
+- [Geotecnia Viaria](https://carapicuiba.geotecnia1.org/geotecnia-viaria/)
+- [Granulometria](https://carapicuiba.geotecnia1.org/granulometria/)
+- [Injecoes](https://carapicuiba.geotecnia1.org/injecoes/)
+- [Investigacao](https://carapicuiba.geotecnia1.org/investigacao/)
+- [Lab In Situ](https://carapicuiba.geotecnia1.org/lab-in-situ/)
+- [Laboratorio](https://carapicuiba.geotecnia1.org/laboratorio/)
+- [Limites Atterberg](https://carapicuiba.geotecnia1.org/limites-atterberg/)
+- [Liquefacao](https://carapicuiba.geotecnia1.org/liquefacao/)
+- [Masw](https://carapicuiba.geotecnia1.org/masw/)
+- [Melhoramento](https://carapicuiba.geotecnia1.org/melhoramento/)
+- [Microzoneamento Sismico](https://carapicuiba.geotecnia1.org/microzoneamento-sismico/)
+- [Monitoramento Escavacoes](https://carapicuiba.geotecnia1.org/monitoramento-escavacoes/)
+- [Muros Contencao](https://carapicuiba.geotecnia1.org/muros-contencao/)
+- [Pavimento Flexivel](https://carapicuiba.geotecnia1.org/pavimento-flexivel/)
+- [Pavimento Rigido](https://carapicuiba.geotecnia1.org/pavimento-rigido/)
+- [Permeabilidade In Situ](https://carapicuiba.geotecnia1.org/permeabilidade-in-situ/)
+- [Pocos Inspecao](https://carapicuiba.geotecnia1.org/pocos-inspecao/)
+- [Radiers](https://carapicuiba.geotecnia1.org/radiers/)
+- [Refracao Sismica](https://carapicuiba.geotecnia1.org/refracao-sismica/)
+- [Resistividade](https://carapicuiba.geotecnia1.org/resistividade/)
+- [Sapatas](https://carapicuiba.geotecnia1.org/sapatas/)
+- [Sismica](https://carapicuiba.geotecnia1.org/sismica/)
+- [Sondagens Spt](https://carapicuiba.geotecnia1.org/sondagens-spt/)
+- [Taludes](https://carapicuiba.geotecnia1.org/taludes/)
+- [Triaxial](https://carapicuiba.geotecnia1.org/triaxial/)
+
+## Contact
+- Website: https://carapicuiba.geotecnia1.org/
+
+## About
+This site provides geotechnical engineering services in Carapicuíba, Brasil.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
